@@ -7,9 +7,11 @@ I am passionate about growing my career in the field of analytics ,learn new too
 Here you'll find:
 
 🔹Projects i am building or contributing to
+
 🔹Things i have learned so far in the field of data 
 
 Let's connect, learn and grow together-one step at a time!
 
 🟦Tech Stack:
+
 Data Analysis, Power BI, Excel, SQL, Python
